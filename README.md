@@ -1,0 +1,2 @@
+# learningPython
+Thanksgiving is usually a happy time, but ad executive Jack (Adam Sandler) dreads the holiday because his twin sister, Jill (also Sandler), makes her annual visit. When Jack and his sister get off on the wrong foot, the only way to make it right is to invite her to stay through Hanukkah. But, when actor Al Pacino (Al Pacino), whom Jack desperately needs to star in a commercial, takes a shine to Jill, Jack may be forced to extend his sister's visit even longer.
