@@ -1,0 +1,7 @@
+print ("num num num")
+print ("num num num")
+print ("WHATTS FOR LLUNNCHH??")
+print ("today for lunch, rise up gamers")
+print ("it's chicken nuggies, num num num")
+print ("for our side, we have BAKED beans,")
+print ("WAARRM apple slices, and enough poatato smiles to satisfy your bloodlust.")
