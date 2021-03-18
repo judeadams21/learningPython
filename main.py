@@ -1,3 +1,7 @@
+print ("Hello World!")
+print("What is this?")
+print ("I'm a computer?")
+print ("Well, I'm a HUNGRY computer.")
 print ("num num num")
 print ("num num num")
 print ("WHATTS FOR LLUNNCHH??")
