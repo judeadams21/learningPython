@@ -1,3 +1,11 @@
-favFood = "Mama Scorsese's Pasta Sauce"
-
-print (favFood)
+holiday = "Thanksgiving"
+actor = "Adam Sandler"
+actorTwo = "Also Adam Sandler"
+holidayTwo = "Hanukkah"
+actorThree "Al Pacino"
+verb = "panned"
+number = "Three"
+awardsShow = "Academy Awards"
+numberTwo = "Twenty-Four"
+movie = "The Lord of the Rings: Return of the King"
+print (holiday + " is usually a happy time, but ad executive Jack (" + actor + ") dreads the holiday because his twin sister, Jill (" + actorTwo + "), makes her annual visit. When Jack and his sister get off on the wrong foot, the only way to make it right is to invite her to stay through " + holidayTwo + ". But, when actor " + actorThree + " whom Jack desperately needs to star in a commercial, takes a shine to Jill, Jack may be forced to extend his sister's visit even longer. Jack and Jill was panned by critics. On Rotten Tomatoes, the film has an approval rating of "  + )
