@@ -1,5 +1,3 @@
-print ("SYnecdoche, New York")
-print ("Blade Runner")
-print ("The Shining")
-print ("Eraserhead")
-print ("Pulp Fiction")
+favFood = "Mama Scorsese's Pasta Sauce"
+
+print (favFood)
