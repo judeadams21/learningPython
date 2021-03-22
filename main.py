@@ -1,11 +1,11 @@
-holiday = "Thanksgiving"
-actor = "Adam Sandler"
-actorTwo = "Also Adam Sandler"
-holidayTwo = "Hanukkah"
-name = "Jack"
-nameTwo = "Jill"
-adjective = "happy"
-relation = "twin sister"
-verb = "dreads"
-bodyPart = "foot"
+holiday = input("Name a holiday\n")
+actor = input("Who is your favourite actor?\n")
+actorTwo = input("Who is your second favourite actor?\n")
+holidayTwo = input("Name another holiday\n")
+name = input("Enter a name\n")
+nameTwo = input("Enter another name\n")
+adjective = input("Enter an adjective\n")
+relation = input("Enter a relation\n")
+verb = input("Enter a verb\n")
+bodyPart = input("Enter Quentin Tarantino's favourite body part\n")
 print (holiday + " is usually a " + adjective + " time, but ad executive Jack (" + actor + ") " + verb + " the holiday because his " + relation + ", Jill (" + actorTwo + "), makes her annual visit. When Jack and his sister get off on the wrong " + bodyPart + ", the only way to make it right is to invite her to stay through " + holidayTwo + ".")
