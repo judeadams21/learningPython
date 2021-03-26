@@ -1,6 +1,10 @@
-age = input("How old are you?\n")
+light = input("Stoplight Color:\n")
 
-if int(age) >= 18:
-    print("Well, it could be Moses in disguise. I have to let you in.")
+if light == "green":
+    print("GO")
+elif light == "yellow":
+    print("SLOW")
+elif light == "blue"
+    print("HIT NEAREST FIRE HYDRANT")
 else:
-    print("Who does this kid this he is? No, no.")
+    print("STOP")
